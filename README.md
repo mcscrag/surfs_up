@@ -12,11 +12,11 @@
 
 ### June Temperature Data:
 
-[June Temps](/june_temps.png)
+![June Temps](/june_temps.png)
 
 ### December Temperature Data:
 
-[June Temps](/december_temps.png)
+![June Temps](/december_temps.png)
 
 ### Analysis
 
